@@ -1,0 +1,2 @@
+1. We started from the edge of 1D because at 1D the drone was going out of camera after taking off.
+2. The drone was behaving erratically sometimes which caused problems.
