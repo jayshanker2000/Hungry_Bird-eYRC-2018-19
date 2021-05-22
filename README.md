@@ -1,6 +1,7 @@
 # Hungry_Bird-eYRC-2018-19
 
 > [Hungry Bird Theme](https://youtu.be/SO-nB95pBSc)
+> ![](/Hungry Bird Description.png)
 
 Birds take care of their young when they hatch. Newly born chicks depend on their parents to bring them food and require feeding every half-an-hour. Knowing this, we can now appreciate the diligence of parent birds. They go from their nest to a food source, carry it in their beaks and go back to feed their young. In fact, many birds that eat seeds, will switch to insects during the breeding season. Parents eat smaller insects themselves and take the larger ones back to the nest for the fledglings. This allows them to carry more food less frequently to their ever-hungry offspring. This process continues until the fledgling’s feathers and muscles have developed sufficiently for flight.
 
