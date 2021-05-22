@@ -13,16 +13,16 @@ The challenge is to complete the task of navigating the Bird through hoops in th
 
 
 ## Task Description
-### Task 1
-### Task 2
-### Task 3
-### Task 4
+#### Task 1
+#### Task 2
+#### Task 3
+#### Task 4
 
 
 
 
-## Team
+## Team Members
 - [Abhipray Singh]()
-- [Arya Das]()
+- [Arya Das](https://github.com/aryadas98)
 - [Jay Shankar](https://github.com/jayshanker2000)
 - [Sumit]()
