@@ -27,7 +27,7 @@ The challenge is to complete the task of navigating the Bird through hoops in th
 
 
 ## Team Members
-- [Sumit]()
 - [Abhipray Singh]()
 - [Arya Das](https://github.com/aryadas98)
 - [Jay Shankar](https://github.com/jayshanker2000)
+- [Sumit]()
