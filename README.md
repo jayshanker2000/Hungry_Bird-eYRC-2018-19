@@ -24,6 +24,8 @@ The challenge is to complete the task of navigating the Bird through hoops in th
 #### [Progress Task](Progress%20Task/Problem%20Statement/ProgressTask.pdf) : The drone starts from the Start, traverses through the hoop and lands back at Start.
 
 
+## Simulation Videos
+https://www.youtube.com/playlist?list=PLWgW6Cbhtc-4sftxghfTwOrUbA8el1pGj
 
 
 ## Team Members
