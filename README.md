@@ -14,7 +14,7 @@ The challenge is to complete the task of navigating the Bird through hoops in th
 
 ## Task Description
 
-#### [Task 0](./Task 0/Problem Statement/Problem Statement.pdf) : To get started with installation of required software
+#### [Task 0]('Task 0/Problem Statement/Problem Statement.pdf') : To get started with installation of required software
 
 #### [Task 1.1](Task 1.1/Task_1_1_Instructions.pdf) : Implementing Position Holding of Drone
 #### [Task 1.2](Task 1.2/Task_1_2_Instructions.pdf) : Implementing Path Planning to Avoid Obstacle
