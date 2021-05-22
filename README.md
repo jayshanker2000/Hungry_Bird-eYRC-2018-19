@@ -14,14 +14,14 @@ The challenge is to complete the task of navigating the Bird through hoops in th
 
 ## Task Description
 
-#### [Task 0]('Task 0/Problem Statement/Problem Statement.pdf') : To get started with installation of required software
+#### [Task 0](Task%200/Problem%20Statement/Problem%20Statement.pdf) : To get started with installation of required software
 
-#### [Task 1.1](Task 1.1/Task_1_1_Instructions.pdf) : Implementing Position Holding of Drone
-#### [Task 1.2](Task 1.2/Task_1_2_Instructions.pdf) : Implementing Path Planning to Avoid Obstacle
-#### [Task 2](Task 2/Problem Statement/Problem_Statement.pdf) : Real-time Emulation
-#### [Task 3](Task 3/Problem Statement/Problem_Statement.pdf) : The drone should hold its position at the given point \[0.0, 0.0, 20.0\] as per the WhyCon frame of reference using the PID control algorithm.
-#### [Task 4](Task 4/) : Final Theme implementation
-#### [Progress Task](Progress Task/Problem Statement/ProgressTask.pdf) : The drone starts from the Start, traverses through the hoop and lands back at Start.
+#### [Task 1.1](Task%201.1/Task_1_1_Instructions.pdf) : Implementing Position Holding of Drone
+#### [Task 1.2](Task%201.2/Task_1_2_Instructions.pdf) : Implementing Path Planning to Avoid Obstacle
+#### [Task 2](Task%202/Problem%20Statement/Problem_Statement.pdf) : Real-time Emulation
+#### [Task 3](Task%203/Problem%20Statement/Problem_Statement.pdf) : The drone should hold its position at the given point \[0.0, 0.0, 20.0\] as per the WhyCon frame of reference using the PID control algorithm.
+#### [Task 4](Task%204/) : Final Theme implementation
+#### [Progress Task](Progress%20Task/Problem%20Statement/ProgressTask.pdf) : The drone starts from the Start, traverses through the hoop and lands back at Start.
 
 
 
